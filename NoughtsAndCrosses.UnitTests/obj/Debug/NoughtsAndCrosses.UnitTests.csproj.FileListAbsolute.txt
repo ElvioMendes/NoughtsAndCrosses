@@ -1,0 +1,16 @@
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\NoughtsAndCrosses.UnitTests.dll
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\NoughtsAndCrosses.UnitTests.pdb
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\NoughtsAndCrosses.exe
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\NoughtsAndCrosses.pdb
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\NoughtsAndCrosses.exe.config
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\obj\Debug\NoughtsAndCrosses.UnitTests.csprojAssemblyReference.cache
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\obj\Debug\NoughtsAndCrosses.UnitTests.csproj.CopyComplete
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\obj\Debug\NoughtsAndCrosses.UnitTests.dll
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses.UnitTests\obj\Debug\NoughtsAndCrosses.UnitTests.pdb

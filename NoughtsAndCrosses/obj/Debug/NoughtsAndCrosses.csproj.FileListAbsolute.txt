@@ -1,0 +1,5 @@
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses\bin\Debug\NoughtsAndCrosses.exe.config
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses\bin\Debug\NoughtsAndCrosses.exe
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses\bin\Debug\NoughtsAndCrosses.pdb
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses\obj\Debug\NoughtsAndCrosses.exe
+C:\Users\emendes\source\repos\TechnicalTest\NoughtsAndCrosses\obj\Debug\NoughtsAndCrosses.pdb
